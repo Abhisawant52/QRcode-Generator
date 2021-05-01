@@ -1,3 +1,3 @@
 # QRcode-Generator
 
-## https://abhisawant52qrgenerator.netlify.app/
+## https://abhisawant52.github.io/QRcode-Generator/
